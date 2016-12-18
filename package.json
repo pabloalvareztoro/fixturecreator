@@ -1,6 +1,6 @@
 {
   "name": "fixturecreator",
-  "version": "1.0-SNAPSHOT",
+  "version": "1.0.0-SNAPSHOT",
   "description": "Leaguemaker: Fixture Creator",
   "scripts": {
     "start": "node ./bin/www"
